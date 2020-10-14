@@ -6,7 +6,7 @@ module.exports = {
     description: `A blog where I write my thoughts about software development and job searching tips.`,
     siteUrl: `https://cocky-ritchie-d71a97.netlify.app/`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `yassine_mokni`,
     },
   },
   plugins: [
